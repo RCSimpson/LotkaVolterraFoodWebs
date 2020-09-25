@@ -5,7 +5,7 @@ The programs and notebooks produce plots and animations of these dynamical syste
 
 The animation below shows how one phase-plot of the Lotka-Volterra model might look:
 
- <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/Lotka_Volterra_Time.png.png" alt="Two-Species Model"> 
+ <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/Lotka_Volterra_Time.png" alt="Two-Species Model"> 
 
  <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/lotkaVolterra2.gif" alt="Two-Species Model"> 
 
