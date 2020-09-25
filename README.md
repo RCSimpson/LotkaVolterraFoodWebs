@@ -6,3 +6,4 @@ The programs and notebook produce plots and animations of these dynamical system
 
 At this time Github or Nbviewer do not allow the animations to be viewed through their UI. To view the animations one must download the notebook or run the python files.
 
+ <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/lotkaVolterra2.gif" alt="Two-Species Model"> 
