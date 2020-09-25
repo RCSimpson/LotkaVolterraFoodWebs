@@ -1,9 +1,12 @@
-# LotkaVolterraFoodWebs
-We can model complex predator-prey dynamics through systems of differential equations. These sometime exhibit chaotic behavior. By simply increasing the dimensionality from two to three
-we introduce the possibility of chaos.
+# Lotka Volterra Food Webs
+We can model complex predator-prey dynamics through systems of differential equations. These systems sometimes exhibit chaotic behavior provided that we have three or more species interacting. By simply increasing the dimensionality from two to three we introduce the possibility of chaos.
 
-The programs and notebook produce plots and animations of these dynamical systems. 
+The programs and notebooks produce plots and animations of these dynamical systems. 
 
-At this time Github or Nbviewer do not allow the animations to be viewed through their UI. To view the animations one must download the notebook or run the python files.
+The animation below shows how one phase-plot of the Lotka-Volterra model might look:
 
  <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/lotkaVolterra2.gif" alt="Two-Species Model"> 
+
+We see that the predator and prey population move in cylcical patterns given the parameter choices. If there is a large population of predators, more prey will be eaten, their population falling. The absence of food then causes the predator population to fall, thus allowing the prey animal to repopulate. 
+
+However we know that animals live in eco-systems where animals may be either predators or prey. There may even be more complication animal relationships like symbiosis or scavenger-behavior. The Hastings model is a three dimensional Lotka-volterra model where rates of feeding are porportional to ratios of populations. Upon choosing certain parameter values the trajectories can generate strange attractors and thus exhibit chaos. We see below the classic tea-cup shape of the strange attractor that appears for this model. 
