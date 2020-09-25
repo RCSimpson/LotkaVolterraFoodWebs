@@ -4,12 +4,14 @@ We can model complex predator-prey dynamics through systems of differential equa
 The programs and notebooks produce plots and animations of these dynamical systems. 
 
 The animation below shows how one phase-plot of the Lotka-Volterra model might look:
-
+### Two Species Lotka Volterra 
  <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/Lotka_Volterra_Time.png" alt="Two-Species Model"> 
 
  <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/lotkaVolterra2.gif" alt="Two-Species Model"> 
 
 We see that the predator and prey population move in cylcical patterns given the parameter choices. If there is a large population of predators, more prey will be eaten, their population falling. The absence of food then causes the predator population to fall, thus allowing the prey animal to repopulate. 
+
+### Three-plus Species Lotka Volterra 
 
 However we know that animals live in eco-systems where animals may be either predators or prey. There may even be more complication animal relationships like symbiosis or scavenger-behavior. The Hastings model is a three dimensional Lotka-volterra model where rates of feeding are porportional to ratios of populations. Upon choosing certain parameter values the trajectories can generate strange attractors and thus exhibit chaos. We see below the classic tea-cup shape of the strange attractor that appears for this model. 
 
