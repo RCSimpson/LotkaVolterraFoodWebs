@@ -15,9 +15,9 @@ We see that the predator and prey population move in cylcical patterns given the
 
 However we know that animals live in eco-systems where animals may be either predators or prey. There may even be more complication animal relationships like symbiosis or scavenger-behavior. The Hastings model is a three dimensional Lotka-volterra model where rates of feeding are porportional to ratios of populations. Upon choosing certain parameter values the trajectories can generate strange attractors and thus exhibit chaos. We see below the classic tea-cup shape of the strange attractor that appears for this model. 
 
- <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/Hastings_time.png" alt="Two-Species Model"> 
+ <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/Hastings_time.png" alt="Hastings Model"> 
 
- <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/Hastings_phase.png" alt="Two-Species Model"> 
+ <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/Hastings_phase.png" alt="Hastings Model"> 
  
- <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/lotkaVolterra3.gif" alt="Two-Species Model"> 
+ <img src="https://github.com/RCSimpson/LotkaVolterraFoodWebs/blob/master/Images/lotkaVolterra3.gif" alt="Hastings Model"> 
 
