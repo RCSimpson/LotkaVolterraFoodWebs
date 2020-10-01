@@ -1,9 +1,11 @@
 # Lotka Volterra Food Webs
 
+<p float="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Fox_-_British_Wildlife_Centre_(17429406401).jpg" width="300" height="300">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Domestic_white_rabbit_sitting_in_a_meadow.jpg" width="300" height="300">
-           
+</p>          
+
 We can model complex predator-prey dynamics through systems of differential equations. These systems sometimes exhibit chaotic behavior provided that we have three or more species interacting. By simply increasing the dimensionality from two to three we introduce the possibility of chaos.
 
 The programs and notebooks produce plots and animations of these dynamical systems. 
